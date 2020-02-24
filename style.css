@@ -3,8 +3,8 @@ body {
   color: #8784C7;
   padding: 10px;}
 
-h1, h2 {
-  font-family: Abadi;
+h1, h2, h3 {
+  font-family: Georgia;
   color: #AD84C6;}
 
 img.align-left {
@@ -18,7 +18,7 @@ img.medium {
   height: 250px;}
 
 a:link {
-  color: #5D739A;}
+  color: ##5D739A;}
 
 a:visited {
   color: black;}
