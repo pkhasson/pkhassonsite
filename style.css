@@ -16,3 +16,9 @@ img.align-right {
 img.medium {
   width:250px;
   height: 250px;}
+
+a:link {
+  color: ##5D739A;}
+
+a:visited {
+  color: black;}
