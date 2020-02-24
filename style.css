@@ -22,3 +22,8 @@ a:link {
 
 a:visited {
   color: black;}
+
+div {
+  height: 300px;
+  width: 400px;
+  background-color: lightgray;}
