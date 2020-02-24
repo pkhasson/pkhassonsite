@@ -6,3 +6,13 @@ body {
 h1, h2 {
   font-family: Abadi;
   color: #AD84C6;}
+
+img.align-left {
+  float: left;
+  margin-right: 10px;}
+img.align-right {
+  float: right;
+  margin-left: 10px;}
+img.medium {
+  width:250px;
+  height: 250px;}
